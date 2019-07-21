@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Calculator
 namespace ConsoleCalculator
 {
     public class Calculator
